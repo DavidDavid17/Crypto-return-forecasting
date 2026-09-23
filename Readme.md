@@ -2,8 +2,8 @@
 
 ## Overview
 
-This project examines cryptocurrency return forecasting performance
-across different market volatility regimes.
+This project continues my previous Thesis topic, "Cryptocurrency return forecasting performance
+across different market volatility regimes."
 
 The analysis compares statistical and deep-learning forecasting
 approaches using Bitcoin, Ethereum, and Solana market data together
@@ -11,8 +11,8 @@ with selected macroeconomic variables.
 
 ## Research Question
 
-How does forecasting performance differ across low-, medium-, and
-high-volatility cryptocurrency market regimes?
+How does forecasting performance differ across low, medium, and
+high volatility cryptocurrency market regimes?
 
 ## Assets
 
